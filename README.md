@@ -1,4 +1,4 @@
-# preditct_h1n1_flu_shot
+# Flu Shot Learning - Predict H1N1 and Seasonal vaccine
  
 O atual projeto, com fins puramente acadêmicos, é um desafio do site DrivenData (https://www.drivendata.org/competitions/66/flu-shot-learning/) e a proposta é desenvolver 2 modelos de predição:
 
